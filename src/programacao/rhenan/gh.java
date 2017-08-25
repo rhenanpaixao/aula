@@ -12,23 +12,17 @@ package programacao.rhenan;
 public class gh {
 
     public static void main(String[] args) {
+
+        int a = 100;
+
+        char b = 'z';
+
+        float c = 2.5f;
+
+        double d = 8000.0054;
+
         
-        // variavel do tipo inteiro
-        byte variavelDoTipoByte = 10;
-        short variavelDoTipoShort = 10;
-        int variavelDoTipoInt = 10;
-        
-        System.out.println("Está variavel do tipo int + variavelDoTipoByte()");
-        
-        if(variavelDoTipoByte == 10);
-        System.out.println("()");
-        
-        
-        
-        
-        
-        
-       
+        System.out.println("int a + char b == 10 ()");
         
 
     }
