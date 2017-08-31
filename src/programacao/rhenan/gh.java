@@ -22,7 +22,17 @@ public class gh {
         double d = 8000.0054;
 
         
-        System.out.println("int a + char b == 10 ()");
+         
+        if ( a == 100);               
+        // Imprima Parabens!!
+        
+        if (a < 100);
+        // Imprima Tente novamente!
+        
+              System.out.println(" a +  b = 100 ()");
+        
+        
+        
         
 
     }
